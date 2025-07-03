@@ -3,6 +3,8 @@ Wuthering waves fps unlocker for linux. Unlocks 120 FPS on the steam version of 
 
 # NOTE: i will need to test more and fix a small issue before i bring this out. This means there is no release yet. It will take me some time to fix bugs and make it release ready!
 
+# For updates, see [here](https://github.com/users/aamaanaa/projects/5), or click the Projects button in the top.
+
 ## Screenshots
 ![Alt text of the image](https://github.com/aamaanaa/wuwa-fps-unlock-linux/blob/main/fps1.png)
 
